@@ -30,6 +30,7 @@ master.menu.sign-out = Salir
 
 master.menu.anonymous = Anónimo
 master.menu.anonymous.favourite-link = Enlace favorito
+master.menu.anonymous.antonio-link = Link de Antonio
 
 master.menu.anonymous.shout.list = Lista de gritos
 master.menu.anonymous.shout.create = Gritar
