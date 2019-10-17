@@ -32,6 +32,9 @@ master.menu.anonymous = Anonymous
 master.menu.anonymous.favourite-link = Favourite link
 master.menu.anonymous.alvaro-link = Alvaro's link
 
+master.menu.anonymous.shout.list = List Shouts
+master.menu.anonymous.shout.create = Shout!
+
 # master.menu.administrator ###################################################
 
 master.menu.administrator = Administrator
