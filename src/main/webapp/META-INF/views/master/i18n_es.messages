@@ -16,8 +16,7 @@ master.banner.background = #FFE97F
 
 master.welcome.title = ¡Bienvenidos!
 master.welcome.text = \
-	Bienvenidos a Acme Stater!  Nunca antes ha sido tan sencillo desarrollar un \
-	proyecto y hacerlo funcionar.
+	Bienvenidos a Acme Jobs!  Nunca antes ha sido tan sencillo buscar trabajo!
 
 # master.menu #################################################################
 
@@ -29,8 +28,10 @@ master.menu.sign-out = Salir
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo
-master.menu.anonymous.favourite-link = Enlace favorito
-master.menu.anonymous.antonio-link = Link de Antonio
+master.menu.anonymous.ivan-link = Enlace favorito de Iván
+master.menu.anonymous.alvaro-link = Enlace favorito de Alvaro
+master.menu.anonymous.antonio-link = Enlace favorito de Antonio
+
 
 master.menu.anonymous.shout.list = Lista de gritos
 master.menu.anonymous.shout.create = Gritar
@@ -45,7 +46,6 @@ master.menu.administrator.shutdown = Parar el sistema
 
 master.menu.provider = Proveedor
 master.menu.provider.favourite-link = Enlace favorito
-master.menu.provider.alvaro-link = Enlace favorito de Alvaro
 
 # master.menu.consumer ##########################################################
 
@@ -79,13 +79,13 @@ master.footer.label.spanish = Español
 
 master.company.title = La compañía
 master.company.text = \
-	Starter Project, Inc. es una compañía fictícia que proporciona un proyecto \
+	Acme Jobs, Inc. es una compañía fictícia que proporciona un proyecto \
 	plantilla para los estudiantes de la asignatura Diseño y Pruebas, en el Grado \
 	en Ingeniería del Software de la Universidad de Sevilla.
-master.company.name = Starter Project, Inc.
-master.company.address = Calle, número, Ciudad, Estado, País
+master.company.name = Acme Jobs, Inc.
+master.company.address = Reina Mercedes, 12, Sevilla, Andalucía, España
 master.company.phone = +000 123 456
-master.company.email = contact@acme.com
+master.company.email = ivacarmen@alum.us.es
 
 # master.license ##############################################################
 
