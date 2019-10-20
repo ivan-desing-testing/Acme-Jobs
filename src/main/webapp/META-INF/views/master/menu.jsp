@@ -27,6 +27,9 @@
       		<acme:menu-suboption code="master.menu.anonymous.ivan-link" action="https://www.genbeta.com/linux/ubuntu-19-10-llega-hoy-arranque-veloz-que-nunca-rompiendo-tradiciones-pro-comodidad-usuario"/>
       		<acme:menu-suboption code="master.menu.anonymous.antonio-link" action="https://ev.us.es/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_29_1"/>   
 
+			<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.anonymous.alferez-bulletin.list" action="/anonymous/alferez-bulletin/list"/>
+			<acme:menu-suboption code="master.menu.anonymous.alferez-bulletin.create" action="/anonymous/alferez-bulletin/create"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">

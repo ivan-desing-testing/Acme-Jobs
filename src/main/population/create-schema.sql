@@ -6,6 +6,16 @@
         primary key (`id`)
     ) engine=InnoDB;
 
+    create table `alferez_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `author` varchar(255),
+        `moment` datetime(6),
+        `type` varchar(255),
+        `url` varchar(255),
+        primary key (`id`)
+    ) engine=InnoDB;
+
     create table `anonymous` (
        `id` integer not null,
         `version` integer not null,

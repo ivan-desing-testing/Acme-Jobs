@@ -10,7 +10,8 @@
 
 # master.banner.welcome #######################################################
 
-master.banner.background = #FFE97F 
+master.banner.background = #3564A2 
+master.banner.background2 = #3f51b5 
 
 ﻿# master.welcome ##############################################################
 
@@ -32,9 +33,12 @@ master.menu.anonymous.ivan-link = Enlace favorito de Iván
 master.menu.anonymous.alvaro-link = Enlace favorito de Alvaro
 master.menu.anonymous.antonio-link = Enlace favorito de Antonio
 
-
 master.menu.anonymous.shout.list = Lista de gritos
 master.menu.anonymous.shout.create = Gritar
+
+master.menu.anonymous.alferez-bulletin.list = Alferez's Bulletin List
+master.menu.anonymous.alferez-bulletin.create = Alferez's Bulletin Create
+
 
 # master.menu.administrator ###################################################
 
