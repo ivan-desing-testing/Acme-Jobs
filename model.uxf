@@ -312,4 +312,24 @@ Shout
 + text: String {NotBlank}</panel_attributes>
     <additional_attributes/>
   </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>469</x>
+      <y>378</y>
+      <w>224</w>
+      <h>133</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+EscobarBulletin
+--
++ moment: Date {Temporal(TIMESTAMP), Past}
++ author: String {NotBlank}
++ birthdate: Date {Temporal(DATE), Past}
++ level: String {NotBlank}
++ text: String {NotBlank}
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
 </diagram>

@@ -36,6 +36,9 @@ master.menu.anonymous.antonio-link = Antonio's link
 master.menu.anonymous.shout.list = List Shouts
 master.menu.anonymous.shout.create = Shout!
 
+master.menu.anonymous.escobar-bulletin.list = List EscobarBulletins
+master.menu.anonymous.escobar-bulletin.create = New EscobarBulletin
+
 # master.menu.administrator ###################################################
 
 master.menu.administrator = Administrator
