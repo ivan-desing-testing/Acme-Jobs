@@ -38,6 +38,9 @@ master.menu.anonymous.abdel-link = Enlace favorito de Abdel
 master.menu.anonymous.shout.list = Lista de gritos
 master.menu.anonymous.shout.create = Gritar
 
+master.menu.anonymous.escobar-bulletin.list = Lista de EscobarBulletins
+master.menu.anonymous.escobar-bulletin.create = Nuevo EscobarBulletin
+
 # master.menu.administrator ###################################################
 
 master.menu.administrator = Administrador
