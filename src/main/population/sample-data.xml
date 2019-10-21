@@ -35,7 +35,15 @@
 		<property name ="text" value="Just turning 20!"/>
 		<property name ="moment" value="2019/09/07 00:00"/>
 	</bean>
-	
+  
+	<!-- AlferezBulletins -->
+	<bean id="alferez01" class ="acme.entities.alferezBulletin.AlferezBulletin">
+		<property name ="author" value="Foo Bar"/>
+		<property name ="url" value="https://github.com/ivan-desing-testing/Acme-Jobs/projects/1"/>
+		<property name ="type" value="Others"/>
+		<property name ="moment" value="2019/09/07 00:00"/>
+	</bean>
+
 	<!-- EscobarBulletins -->
 	<bean id="escobarBulletin01" class ="acme.entities.escobarBulletin.EscobarBulletin">
 		<property name ="author" value="John Does"/>
@@ -60,7 +68,7 @@
 		<property name ="birthdate" value="1999/11/18 00:00"/>
 		<property name ="level" value="Middle School (Secundaria)"/>
 	</bean>
-	
+
 </beans>
 
 
