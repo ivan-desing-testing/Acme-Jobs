@@ -32,6 +32,8 @@ master.menu.anonymous = Anónimo
 master.menu.anonymous.ivan-link = Enlace favorito de Iván
 master.menu.anonymous.alvaro-link = Enlace favorito de Alvaro
 master.menu.anonymous.antonio-link = Enlace favorito de Antonio
+master.menu.anonymous.josescrue-favourite-link = Enlace favorito de José
+master.menu.anonymous.abdel-link = Enlace favorito de Abdel
 
 master.menu.anonymous.shout.list = Lista de gritos
 master.menu.anonymous.shout.create = Gritar
@@ -39,6 +41,8 @@ master.menu.anonymous.shout.create = Gritar
 master.menu.anonymous.alferez-bulletin.list = Alferez's Bulletin List
 master.menu.anonymous.alferez-bulletin.create = Alferez's Bulletin Create
 
+master.menu.anonymous.escobar-bulletin.list = Lista de EscobarBulletins
+master.menu.anonymous.escobar-bulletin.create = Nuevo EscobarBulletin
 
 # master.menu.administrator ###################################################
 
@@ -102,4 +106,3 @@ master.license.text = \
 	durante un máximo de 31 días y "language" para almacenar sus preferencias de \
 	lenguage.  Además, almacenamos un ítem llamado "returnStack" en el almacenamiento \
 	local de su navegador para saber dónde tienen que ir algunos botones.
-	
