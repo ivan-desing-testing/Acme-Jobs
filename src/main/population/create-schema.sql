@@ -6,6 +6,16 @@
         primary key (`id`)
     ) engine=InnoDB;
 
+    create table `alferez_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `author` varchar(255),
+        `moment` datetime(6),
+        `type` varchar(255),
+        `url` varchar(255),
+        primary key (`id`)
+    ) engine=InnoDB;
+
     create table `anonymous` (
        `id` integer not null,
         `version` integer not null,
@@ -39,12 +49,32 @@
         primary key (`id`)
     ) engine=InnoDB;
 
+    create table `escobar_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `author` varchar(255),
+        `birthdate` datetime(6),
+        `level` varchar(255),
+        `moment` datetime(6),
+        `text` varchar(255),
+        primary key (`id`)
+    ) engine=InnoDB;
+
     create table `provider` (
        `id` integer not null,
         `version` integer not null,
         `user_account_id` integer,
         `company` varchar(255),
         `sector` varchar(255),
+        primary key (`id`)
+    ) engine=InnoDB;
+
+    create table `rosado_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `image` varchar(255),
+        `name` varchar(255),
+        `video` varchar(255),
         primary key (`id`)
     ) engine=InnoDB;
 

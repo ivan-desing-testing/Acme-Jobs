@@ -26,13 +26,27 @@
 			    <acme:menu-separator/>
       
            <acme:menu-suboption code="master.menu.anonymous.chellik-bulletin.list" action="/anonymous/chellik-bulletin/list"/>
-		   <acme:menu-suboption code="master.menu.anonymous.chellik-bulletin.create" action="/anonymous/chellik-bulletin/create"/>
+		       <acme:menu-suboption code="master.menu.anonymous.chellik-bulletin.create" action="/anonymous/chellik-bulletin/create"/>
            
           <acme:menu-separator/>
+
+          <acme:menu-suboption code="master.menu.anonymous.escobar-bulletin.list" action="/anonymous/escobar-bulletin/list"/>
+			    <acme:menu-suboption code="master.menu.anonymous.escobar-bulletin.create" action="/anonymous/escobar-bulletin/create"/>
+      
+          <acme:menu-separator/>
+          
+          <acme:menu-suboption code="master.menu.anonymous.rosado-bulletin.list" action="/anonymous/rosado-bulletin/list"/>
+			    <acme:menu-suboption code="master.menu.anonymous.rosado-bulletin.create" action="/anonymous/rosado-bulletin/create"/>
+
+			    <acme:menu-separator/>
       
       		<acme:menu-suboption code="master.menu.anonymous.alvaro-link" action="https://www.youtube.com/watch?v=dQw4w9WgXcQ"/>
       		<acme:menu-suboption code="master.menu.anonymous.ivan-link" action="https://www.genbeta.com/linux/ubuntu-19-10-llega-hoy-arranque-veloz-que-nunca-rompiendo-tradiciones-pro-comodidad-usuario"/>
       		<acme:menu-suboption code="master.menu.anonymous.antonio-link" action="https://ev.us.es/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_29_1"/>   
+
+			    <acme:menu-separator/>
+			    <acme:menu-suboption code="master.menu.anonymous.alferez-bulletin.list" action="/anonymous/alferez-bulletin/list"/>
+			    <acme:menu-suboption code="master.menu.anonymous.alferez-bulletin.create" action="/anonymous/alferez-bulletin/create"/>
 
           <acme:menu-separator/>
           <acme:menu-suboption code="master.menu.anonymous.josescrue-favourite-link" action="https://www.formula1.com"/>

@@ -41,6 +41,15 @@ master.menu.anonymous.shout.create = Gritar
 master.menu.anonymous.chellik-bulletin.list = Lista ChellikBulletins
 master.menu.anonymous.chellik-bulletin.create = Nuevo ChellikBulletin
 
+master.menu.anonymous.rosado-bulletin.list = Lista de RosadoBulletins
+master.menu.anonymous.rosado-bulletin.create = Crear RosadoBulletin
+
+master.menu.anonymous.alferez-bulletin.list = Alferez's Bulletin List
+master.menu.anonymous.alferez-bulletin.create = Alferez's Bulletin Create
+
+master.menu.anonymous.escobar-bulletin.list = Lista de EscobarBulletins
+master.menu.anonymous.escobar-bulletin.create = Nuevo EscobarBulletin
+
 # master.menu.administrator ###################################################
 
 master.menu.administrator = Administrador
