@@ -30,6 +30,16 @@
         primary key (`id`)
     ) engine=InnoDB;
 
+    create table `chellik_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `apellido` varchar(255),
+        `fecha` datetime(6),
+        `nombre` varchar(255),
+        `role` varchar(255),
+        primary key (`id`)
+    ) engine=InnoDB;
+
     create table `consumer` (
        `id` integer not null,
         `version` integer not null,

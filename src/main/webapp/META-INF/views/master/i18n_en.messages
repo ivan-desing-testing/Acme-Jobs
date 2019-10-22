@@ -37,6 +37,9 @@ master.menu.anonymous.abdel-link = Abdel's link
 master.menu.anonymous.shout.list = List Shouts
 master.menu.anonymous.shout.create = Shout!
 
+master.menu.anonymous.chellik-bulletin.list = List ChellikBulletin 
+master.menu.anonymous.chellik-bulletin.create = New ChellikBulletin!
+
 master.menu.anonymous.rosado-bulletin.list = List RosadoBulletins
 master.menu.anonymous.rosado-bulletin.create = Create RosadoBulletin
 

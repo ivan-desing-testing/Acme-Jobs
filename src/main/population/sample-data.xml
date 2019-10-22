@@ -36,6 +36,30 @@
 		<property name ="moment" value="2019/09/07 00:00"/>
 	</bean>
   
+	<!-- ChellikBulletins -->
+  
+	<bean id="chellikBulletin21" class ="acme.entities.chellikBulletin.ChellikBulletin">
+		<property name ="nombre" value="Pipito"/>
+		<property name ="apellido" value="mmmmmmm"/>
+		<property name ="role" value="developer"/>
+		<property name ="fecha" value="2019/08/01 00:00"/>
+		
+	</bean>
+	
+	<bean id="chellikBulletin22" class ="acme.entities.chellikBulletin.ChellikBulletin">
+		<property name ="nombre" value="abbbbde"/>
+		<property name ="apellido" value="chell"/>
+		<property name ="role" value="architect"/>
+		<property name ="fecha" value="2019/07/04 00:00"/>
+	</bean>
+	
+	<bean id="chellikBulletin13" class ="acme.entities.chellikBulletin.ChellikBulletin">
+		<property name ="nombre" value="jose"/>
+		<property name ="apellido" value="avvvv"/>
+		<property name ="role" value="analist"/>
+		<property name ="fecha" value="2019/11/03 11:00"/>
+	</bean>
+
 	<!-- AlferezBulletins -->
 	<bean id="alferez01" class ="acme.entities.alferezBulletin.AlferezBulletin">
 		<property name ="author" value="Foo Bar"/>

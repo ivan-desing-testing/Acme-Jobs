@@ -5,6 +5,26 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
+      <x>385</x>
+      <y>350</y>
+      <w>147</w>
+      <h>91</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+ChellikBulletin
+--
++nombre: String{NotBlank}
++apellido: String{NotBlank}
++role: String{NotBlank}
++fecha: Date{Temporal(TIMESTAMP)}
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  
+  
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
       <x>0</x>
       <y>98</y>
       <w>154</w>
