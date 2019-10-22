@@ -32,15 +32,14 @@ master.menu.anonymous = Anonymous
 master.menu.anonymous.alvaro-link = Alvaro's link
 master.menu.anonymous.ivan-link = Iván's link
 master.menu.anonymous.antonio-link = Antonio's link
-
 master.menu.anonymous.josescrue-favourite-link = José's link
 master.menu.anonymous.abdel-link = Abdel's link
 
-master.menu.anonymous.cardenas-bulletin.list = CardenasBulletin List
-master.menu.anonymous.cardenas-bulletin.create = CardenasBulletin Create
-
 master.menu.anonymous.shout.list = List Shouts
 master.menu.anonymous.shout.create = Shout!
+
+master.menu.anonymous.cardenas-bulletin.list = CardenasBulletin List
+master.menu.anonymous.cardenas-bulletin.create = CardenasBulletin Create
 
 master.menu.anonymous.chellik-bulletin.list = List ChellikBulletin 
 master.menu.anonymous.chellik-bulletin.create = New ChellikBulletin!

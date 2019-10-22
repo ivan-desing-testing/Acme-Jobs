@@ -31,15 +31,14 @@ master.menu.anonymous = Anónimo
 master.menu.anonymous.ivan-link = Enlace favorito de Iván
 master.menu.anonymous.alvaro-link = Enlace favorito de Alvaro
 master.menu.anonymous.antonio-link = Enlace favorito de Antonio
-
 master.menu.anonymous.josescrue-favourite-link = Enlace favorito de José
 master.menu.anonymous.abdel-link = Enlace favorito de Abdel
 
-master.menu.anonymous.cardenas-bulletin.list = CardenasBulletin Lista
-master.menu.anonymous.cardenas-bulletin.create = CardenasBulletin Crear
-
 master.menu.anonymous.shout.list = Lista de gritos
 master.menu.anonymous.shout.create = Gritar
+
+master.menu.anonymous.cardenas-bulletin.list = CardenasBulletin Lista
+master.menu.anonymous.cardenas-bulletin.create = CardenasBulletin Crear
 
 master.menu.anonymous.chellik-bulletin.list = Lista ChellikBulletins
 master.menu.anonymous.chellik-bulletin.create = Nuevo ChellikBulletin
@@ -47,8 +46,8 @@ master.menu.anonymous.chellik-bulletin.create = Nuevo ChellikBulletin
 master.menu.anonymous.rosado-bulletin.list = Lista de RosadoBulletins
 master.menu.anonymous.rosado-bulletin.create = Crear RosadoBulletin
 
-master.menu.anonymous.alferez-bulletin.list = Alferez's Bulletin List
-master.menu.anonymous.alferez-bulletin.create = Alferez's Bulletin Create
+master.menu.anonymous.alferez-bulletin.list = Lista de AlferezBulletin
+master.menu.anonymous.alferez-bulletin.create = Crear AlferezBulletin
 
 master.menu.anonymous.escobar-bulletin.list = Lista de EscobarBulletins
 master.menu.anonymous.escobar-bulletin.create = Nuevo EscobarBulletin

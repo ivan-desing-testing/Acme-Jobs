@@ -27,9 +27,9 @@
 
     drop table if exists `authenticated`;
 
-    drop table if exists `chellik_bulletin`;
-
     drop table if exists `cardenas_bulletin`;
+
+    drop table if exists `chellik_bulletin`;
 
     drop table if exists `consumer`;
 
