@@ -14,7 +14,7 @@ anonymous.alferez-bulletin.list.label.type = Tipo
 anonymous.alferez-bulletin.list.label.url = Url
 
 anonymous.alferez-bulletin.form.label.author = Autor:
-anonymous.alferez-bulletin.form.label.text = Tipo:
+anonymous.alferez-bulletin.form.label.type = Tipo:
 anonymous.alferez-bulletin.form.label.url = Url:
 anonymous.alferez-bulletin.form.button.create = Compartir
 anonymous.alferez-bulletin.form.button.return = Volver 
