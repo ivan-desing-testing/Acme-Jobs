@@ -10,11 +10,11 @@
 
 anonymous.alferez-bulletin.list.label.moment = Moment
 anonymous.alferez-bulletin.list.label.author = Author
-anonymous.alferez-bulletin.form.label.type = Type
+anonymous.alferez-bulletin.list.label.type = Type
 anonymous.alferez-bulletin.list.label.url = Url
 
 anonymous.alferez-bulletin.form.label.author = Author:
-anonymous.alferez-bulletin.form.label.text = Type:
+anonymous.alferez-bulletin.form.label.type = Type:
 anonymous.alferez-bulletin.form.label.url = Url:
 anonymous.alferez-bulletin.form.button.create = Share!
 anonymous.alferez-bulletin.form.button.return = Return 
