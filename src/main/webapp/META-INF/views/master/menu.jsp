@@ -21,7 +21,9 @@
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.shout.list" action="/anonymous/shout/list"/>
 			<acme:menu-suboption code="master.menu.anonymous.shout.create" action="/anonymous/shout/create"/>
-
+			<acme:menu-separator/>
+			<acme:menu-suboption code="master.menu.anonymous.cardenas-bulletin.list" action="/anonymous/cardenas-bulletin/list"/>
+			<acme:menu-suboption code="master.menu.anonymous.cardenas-bulletin.create" action="/anonymous/cardenas-bulletin/create"/>
 			<acme:menu-separator/>
       		<acme:menu-suboption code="master.menu.anonymous.alvaro-link" action="https://www.youtube.com/watch?v=dQw4w9WgXcQ"/>
       		<acme:menu-suboption code="master.menu.anonymous.ivan-link" action="https://www.genbeta.com/linux/ubuntu-19-10-llega-hoy-arranque-veloz-que-nunca-rompiendo-tradiciones-pro-comodidad-usuario"/>

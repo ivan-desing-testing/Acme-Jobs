@@ -10,7 +10,7 @@
 
 # master.banner.welcome #######################################################
 
-master.banner.background = #FFE97F 
+master.banner.background = #3F51B5 
 
 ﻿# master.welcome ##############################################################
 
@@ -32,6 +32,8 @@ master.menu.anonymous.ivan-link = Enlace favorito de Iván
 master.menu.anonymous.alvaro-link = Enlace favorito de Alvaro
 master.menu.anonymous.antonio-link = Enlace favorito de Antonio
 
+master.menu.anonymous.cardenas-bulletin.list = CardenasBulletin Lista
+master.menu.anonymous.cardenas-bulletin.create = CardenasBulletin Crear
 
 master.menu.anonymous.shout.list = Lista de gritos
 master.menu.anonymous.shout.create = Gritar
