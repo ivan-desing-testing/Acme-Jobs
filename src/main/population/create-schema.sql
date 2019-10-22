@@ -37,6 +37,17 @@
         `fecha` datetime(6),
         `nombre` varchar(255),
         `role` varchar(255),
+            primary key (`id`)
+    ) engine=InnoDB;
+
+    create table `cardenas_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `author` varchar(255),
+        `book` varchar(255),
+        `genre` varchar(255),
+        `isbn` varchar(255),
+
         primary key (`id`)
     ) engine=InnoDB;
 

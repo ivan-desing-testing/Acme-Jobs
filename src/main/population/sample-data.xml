@@ -113,4 +113,25 @@
 		<property name ="video" value="https://www.youtube.com/watch?v=fJ9rUzIMcZQ"/>
 	</bean>
 
+	<bean id="cardenasBulletin01" class ="acme.entities.cardenasBulletin.CardenasBulletin">
+		<property name ="book" value="La Comunidad del Anillo"/>
+		<property name ="author" value="J.R.R Tolkien"/>
+		<property name ="genre" value="Fantasía"/>
+		<property name ="isbn" value="7312310239"/>
+	</bean>
+	
+	<bean id="cardenasBulletin02" class ="acme.entities.cardenasBulletin.CardenasBulletin">
+		<property name ="book" value="Las Dos Torres"/>
+		<property name ="author" value="J.R.R Tolkien"/>
+		<property name ="genre" value="Fantasía"/>
+		<property name ="isbn" value="801123412"/>
+	</bean>
+	
+	<bean id="cardenasBulletin03" class ="acme.entities.cardenasBulletin.CardenasBulletin">
+		<property name ="book" value="The Final Empire"/>
+		<property name ="author" value="Brandon Sanderson"/>
+		<property name ="genre" value="Fantasía"/>
+		<property name ="isbn" value="134523452"/>
+	</bean>
+
 </beans>
