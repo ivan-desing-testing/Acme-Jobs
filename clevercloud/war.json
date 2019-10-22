@@ -1,7 +1,7 @@
 {
 	"build": {
 		"type": "maven",
-		"goal": "clean complie package"
+		"goal": "clean compile package"
 	},
 	"deploy": {
 		"container": "TOMCATS",
