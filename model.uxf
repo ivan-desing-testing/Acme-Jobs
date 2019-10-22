@@ -312,4 +312,20 @@ Shout
 + text: String {NotBlank}</panel_attributes>
     <additional_attributes/>
   </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>259</x>
+      <y>406</y>
+      <w>140</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+RosadoBulletin
+--
++name: String {NotBlank}
++image: String {URL}
++video: String {URL}</panel_attributes>
+    <additional_attributes/>
+  </element>
 </diagram>

@@ -38,6 +38,15 @@
         primary key (`id`)
     ) engine=InnoDB;
 
+    create table `rosado_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `image` varchar(255),
+        `name` varchar(255),
+        `video` varchar(255),
+        primary key (`id`)
+    ) engine=InnoDB;
+
     create table `shout` (
        `id` integer not null,
         `version` integer not null,

@@ -21,6 +21,8 @@
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.shout.list" action="/anonymous/shout/list"/>
 			<acme:menu-suboption code="master.menu.anonymous.shout.create" action="/anonymous/shout/create"/>
+			<acme:menu-suboption code="master.menu.anonymous.rosado-bulletin.list" action="/anonymous/rosado-bulletin/list"/>
+			<acme:menu-suboption code="master.menu.anonymous.rosado-bulletin.create" action="/anonymous/rosado-bulletin/create"/>
 
 			<acme:menu-separator/>
       		<acme:menu-suboption code="master.menu.anonymous.alvaro-link" action="https://www.youtube.com/watch?v=dQw4w9WgXcQ"/>

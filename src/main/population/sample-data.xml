@@ -36,6 +36,24 @@
 		<property name ="moment" value="2019/09/07 00:00"/>
 	</bean>
 	
+	<bean id="RBulletin01" class ="acme.entities.RosadoBulletin.RosadoBulletin">
+		<property name ="name" value="Antonio"/>
+		<property name ="image" value="https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg"/>
+		<property name ="video" value="https://www.youtube.com/watch?v=dQw4w9WgXcQ"/>
+	</bean>
+	
+	<bean id="RBulletin02" class ="acme.entities.RosadoBulletin.RosadoBulletin">
+		<property name ="name" value="Juan"/>
+		<property name ="image" value="https://helpx.adobe.com/content/dam/help/en/stock/how-to/visual-reverse-image-search/jcr_content/main-pars/image/visual-reverse-image-search-v2_intro.jpg"/>
+		<property name ="video" value="https://www.youtube.com/watch?v=anzzNp8HlVQ"/>
+	</bean>
+	
+	<bean id="RBulletin03" class ="acme.entities.RosadoBulletin.RosadoBulletin">
+		<property name ="name" value="Paco"/>
+		<property name ="image" value="https://image.shutterstock.com/image-photo/bright-spring-view-cameo-island-260nw-1048185397.jpg"/>
+		<property name ="video" value="https://www.youtube.com/watch?v=fJ9rUzIMcZQ"/>
+	</bean>
+	
 </beans>
 
 

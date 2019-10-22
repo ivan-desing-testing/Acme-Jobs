@@ -36,6 +36,9 @@ master.menu.anonymous.antonio-link = Enlace favorito de Antonio
 master.menu.anonymous.shout.list = Lista de gritos
 master.menu.anonymous.shout.create = Gritar
 
+master.menu.anonymous.rosado-bulletin.list = Lista de RosadoBulletins
+master.menu.anonymous.rosado-bulletin.create = Crear RosadoBulletin
+
 # master.menu.administrator ###################################################
 
 master.menu.administrator = Administrador
