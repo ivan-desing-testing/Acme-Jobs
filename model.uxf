@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <diagram program="umlet" version="14.3.0">
   <zoom_level>7</zoom_level>
+  
   <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>0</x>
+      <y>98</y>
+      <w>154</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Datatype&gt;&gt;
+Money
+--
++ amount: double {Digits(10, 2)}
++ currentcy: String {NotBlank}
+
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>259</x>
+      <y>406</y>
+      <w>140</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Entity&gt;&gt;
+RosadoBulletin
+--
++name: String {NotBlank}
++image: String {URL}
++video: String {URL}</panel_attributes>
+    <additional_attributes/>
+  </element>
+  
+  <element>
+    
     <id>UMLClass</id>
     <coordinates>
       <x>525</x>
@@ -27,6 +64,7 @@ bg=yellow</panel_attributes>
     <additional_attributes>80.0;10.0;10.0;90.0</additional_attributes>
   </element>
   <element>
+    
     <id>UMLClass</id>
     <coordinates>
       <x>175</x>
@@ -46,6 +84,7 @@ bg=orange
 </panel_attributes>
     <additional_attributes/>
   </element>
+  
   <element>
     <id>UMLNote</id>
     <coordinates>
@@ -82,6 +121,7 @@ bg=blue</panel_attributes>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
     <additional_attributes>10.0;10.0;80.0;90.0</additional_attributes>
   </element>
+  
   <element>
     <id>UMLClass</id>
     <coordinates>

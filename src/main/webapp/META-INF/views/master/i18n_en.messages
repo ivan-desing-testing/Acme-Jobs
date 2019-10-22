@@ -37,6 +37,9 @@ master.menu.anonymous.abdel-link = Abdel's link
 master.menu.anonymous.shout.list = List Shouts
 master.menu.anonymous.shout.create = Shout!
 
+master.menu.anonymous.rosado-bulletin.list = List RosadoBulletins
+master.menu.anonymous.rosado-bulletin.create = Create RosadoBulletin
+
 master.menu.anonymous.alferez-bulletin.list = Alferez's Bulletin List
 master.menu.anonymous.alferez-bulletin.create = Alferez's Bulletin Create
 
