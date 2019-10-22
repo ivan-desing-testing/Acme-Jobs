@@ -21,11 +21,15 @@
 
     drop table if exists `administrator`;
 
+    drop table if exists `alferez_bulletin`;
+
     drop table if exists `anonymous`;
 
     drop table if exists `authenticated`;
 
     drop table if exists `consumer`;
+
+    drop table if exists `escobar_bulletin`;
 
     drop table if exists `provider`;
 
